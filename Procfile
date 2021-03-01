@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/heroku-ci-testapp -Dhttp.port=$PORT
